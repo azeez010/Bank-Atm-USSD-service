@@ -1,0 +1,25 @@
+8848 [main] INFO  com.atm.user.UserService - User is Created Username 1 Password 1
+12192 [main] INFO  com.atm.user.UserService - User is Created Username 1 Password 1
+13207 [main] INFO  com.atm.user.UserService - User is Created Username 1 Password 1
+14136 [main] INFO  com.atm.user.UserService - User is Created Username 1 Password 1
+14744 [main] INFO  com.atm.user.UserService - User is Created Username 1 Password 1
+15486 [main] INFO  com.atm.user.UserService - User is Created Username 1 Password 1
+16057 [main] INFO  com.atm.user.UserService - User is Created Username 1 Password 1
+16628 [main] INFO  com.atm.user.UserService - User is Created Username 1 Password 1
+1121 [main] INFO  com.atm.user.UserModelTest - @BeforeAll - executes once before all test methods in this class
+959  [main] INFO  com.atm.user.UserModelTest - @Get - executes once before all test methods in this class
+1392 [main] INFO  com.atm.user.UserModelTest - @AfterEach - executed after each test method.
+1451 [main] INFO  com.atm.user.UserModelTest - @AfterEach - executed after each test method.
+1466 [main] INFO  com.atm.user.UserModelTest - @AfterAll - executed after all test methods.
+2141 [main] INFO  com.atm.user.UserModelTest - @AfterEach - executed after each test method.
+2191 [main] INFO  com.atm.user.UserModelTest - @AfterEach - executed after each test method.
+2269 [main] INFO  com.atm.user.UserModelTest - @AfterAll - executed after all test methods.
+1534 [main] INFO  com.atm.user.UserModelTest - @AfterEach - executed after each test method.
+1561 [main] INFO  com.atm.user.UserModelTest - @AfterEach - executed after each test method.
+1573 [main] INFO  com.atm.user.UserModelTest - @AfterAll - executed after all test methods.
+866  [main] INFO  com.atm.user.UserModelTest - @AfterEach - executed after each test method.
+936  [main] INFO  com.atm.user.UserModelTest - @AfterEach - executed after each test method.
+942  [main] INFO  com.atm.user.UserModelTest - @AfterAll - executed after all test methods.
+845  [main] INFO  com.atm.user.UserModelTest - @AfterEach - executed after each test method.
+874  [main] INFO  com.atm.user.UserModelTest - @AfterEach - executed after each test method.
+883  [main] INFO  com.atm.user.UserModelTest - @AfterAll - executed after all test methods.
